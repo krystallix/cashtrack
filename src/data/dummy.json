@@ -1,0 +1,974 @@
+[
+    {
+        "id": "728ed52f",
+        "amount": 1500000,
+        "description": "Raw material purchase",
+        "category": "Purchase",
+        "date": "2024-01-01",
+        "title": "Raw material purchase",
+    "payment": "cash"
+    },
+{
+    "id": "92ab14c3",
+    "amount": 3750000,
+    "description": "Office supplies",
+    "category": "Supplies",
+    "date": "2024-01-02",
+    "title": "Office supplies",
+    "payment": "non-cash"
+},
+{
+    "id": "45df78e9",
+    "amount": 22500000,
+    "description": "Equipment maintenance",
+    "category": "Maintenance",
+    "date": "2024-01-03",
+    "title": "Equipment maintenance",
+    "payment": "non-cash"
+},
+{
+    "id": "b3c912a4",
+    "amount": 1125000,
+    "description": "Transportation costs",
+    "category": "Travel",
+    "date": "2024-01-04",
+    "title": "Transportation costs",
+    "payment": "cash"
+},
+{
+    "id": "67gh89k2",
+    "amount": 4500000,
+    "description": "Marketing materials",
+    "category": "Marketing",
+    "date": "2024-01-05",
+    "title": "Marketing materials",
+    "payment": "non-cash"
+},
+{
+    "id": "34jk56m8",
+    "amount": 12750000,
+    "description": "Software subscription",
+    "category": "Technology",
+    "date": "2024-01-06",
+    "title": "Software subscription",
+    "payment": "non-cash"
+},
+{
+    "id": "12np34q5",
+    "amount": 3000000,
+    "description": "Client meeting lunch",
+    "category": "Meals",
+    "date": "2024-01-07",
+    "title": "Client meeting lunch",
+    "payment": "cash"
+},
+{
+    "id": "78rs90t1",
+    "amount": 6750000,
+    "description": "Training materials",
+    "category": "Training",
+    "date": "2024-01-08",
+    "title": "Training materials",
+    "payment": "non-cash"
+},
+{
+    "id": "56uv78w9",
+    "amount": 1875000,
+    "description": "Office utilities",
+    "category": "Utilities",
+    "date": "2024-01-09",
+    "title": "Office utilities",
+    "payment": "non-cash"
+},
+{
+    "id": "90xy12z3",
+    "amount": 9000000,
+    "description": "Insurance payment",
+    "category": "Insurance",
+    "date": "2024-01-10",
+    "title": "Insurance payment",
+    "payment": "non-cash"
+},
+{
+    "id": "11ab34cd",
+    "amount": 5000000,
+    "description": "Website development",
+    "category": "Services",
+    "date": "2024-01-11",
+    "title": "Website development",
+    "payment": "non-cash"
+},
+{
+    "id": "22bc45de",
+    "amount": 8000000,
+    "description": "Consulting fees",
+    "category": "Services",
+    "date": "2024-01-12",
+    "title": "Consulting fees",
+    "payment": "non-cash"
+},
+{
+    "id": "33cd56ef",
+    "amount": 1200000,
+    "description": "Office rent",
+    "category": "Rent",
+    "date": "2024-01-13",
+    "title": "Office rent",
+    "payment": "cash"
+},
+{
+    "id": "44de67fg",
+    "amount": 2500000,
+    "description": "Internet subscription",
+    "category": "Utilities",
+    "date": "2024-01-14",
+    "title": "Internet subscription",
+    "payment": "non-cash"
+},
+{
+    "id": "55ef78gh",
+    "amount": 3000000,
+    "description": "Employee training",
+    "category": "Training",
+    "date": "2024-01-15",
+    "title": "Employee training",
+    "payment": "non-cash"
+},
+{
+    "id": "66fg89hi",
+    "amount": 4500000,
+    "description": "Travel expenses",
+    "category": "Travel",
+    "date": "2024-01-16",
+    "title": "Travel expenses",
+    "payment": "cash"
+},
+{
+    "id": "77gh90ij",
+    "amount": 6000000,
+    "description": "Office furniture",
+    "category": "Furniture",
+    "date": "2024-01-17",
+    "title": "Office furniture",
+    "payment": "non-cash"
+},
+{
+    "id": "88hi01jk",
+    "amount": 3500000,
+    "description": "Marketing campaign",
+    "category": "Marketing",
+    "date": "2024-01-18",
+    "title": "Marketing campaign",
+    "payment": "non-cash"
+},
+{
+    "id": "99ij12kl",
+    "amount": 2000000,
+    "description": "Client gifts",
+    "category": "Gifts",
+    "date": "2024-01-19",
+    "title": "Client gifts",
+    "payment": "cash"
+},
+{
+    "id": "101jk23lm",
+    "amount": 4000000,
+    "description": "Office cleaning",
+    "category": "Services",
+    "date": "2024-01-20",
+    "title": "Office cleaning",
+    "payment": "non-cash"
+},
+{
+    "id": "112kl34mn",
+    "amount": 5000000,
+    "description": "Software licenses",
+    "category": "Technology",
+    "date": "2024-01-21",
+    "title": "Software licenses",
+    "payment": "non-cash"
+},
+{
+    "id": "123mn45no",
+    "amount": 7500000,
+    "description": "Event sponsorship",
+    "category": "Marketing",
+    "date": "2024-01-22",
+    "title": "Event sponsorship",
+    "payment": "non-cash"
+},
+{
+    "id": "134no56op",
+    "amount": 9500000,
+    "description": "Product launch",
+    "category": "Marketing",
+    "date": "2024-01-23",
+    "title": "Product launch",
+    "payment": "non-cash"
+},
+{
+    "id": "145op67pq",
+    "amount": 3000000,
+    "description": "Team building event",
+    "category": "Events",
+    "date": "2024-01-24",
+    "title": "Team building event",
+    "payment": "cash"
+},
+{
+    "id": "156pq78qr",
+    "amount": 2000000,
+    "description": "Office supplies restock",
+    "category": "Supplies",
+    "date": "2024-01-25",
+    "title": "Office supplies restock",
+    "payment": "non-cash"
+},
+{
+    "id": "167qr89rs",
+    "amount": 4000000,
+    "description": "Employee bonuses",
+    "category": "Salaries",
+    "date": "2024-01-26",
+    "title": "Employee bonuses",
+    "payment": "non-cash"
+},
+{
+    "id": "178rs90st",
+    "amount": 6000000,
+    "description": "Health insurance",
+    "category": "Insurance",
+    "date": "2024-01-27",
+    "title": "Health insurance",
+    "payment": "non-cash"
+},
+{
+    "id": "189st01tu",
+    "amount": 8000000,
+    "description": "Retirement fund",
+    "category": "Investments",
+    "date": "2024-01-28",
+    "title": "Retirement fund",
+    "payment": "non-cash"
+},
+{
+    "id": "190tu12uv",
+    "amount": 10000000,
+    "description": "Office renovation",
+    "category": "Renovation",
+    "date": "2024-01-29",
+    "title": "Office renovation",
+    "payment": "cash"
+},
+{
+    "id": "201uv23vw",
+    "amount": 3000000,
+    "description": "New computer purchase",
+    "category": "Equipment",
+    "date": "2024-01-30",
+    "title": "New computer purchase",
+    "payment": "non-cash"
+},
+{
+    "id": "212vw34xy",
+    "amount": 5000000,
+    "description": "Office party",
+    "category": "Events",
+    "date": "2024-01-31",
+    "title": "Office party",
+    "payment": "cash"
+},
+{
+    "id": "223xy45yz",
+    "amount": 7000000,
+    "description": "Website hosting",
+    "category": "Services",
+    "date": "2024-02-01",
+    "title": "Website hosting",
+    "payment": "non-cash"
+},
+{
+    "id": "234yz56za",
+    "amount": 9000000,
+    "description": "Social media advertising",
+    "category": "Marketing",
+    "date": "2024-02-02",
+    "title": "Social media advertising",
+    "payment": "non-cash"
+},
+{
+    "id": "245za67ab",
+    "amount": 11000000,
+    "description": "Market research",
+    "category": "Research",
+    "date": "2024-02-03",
+    "title": "Market research",
+    "payment": "non-cash"
+},
+{
+    "id": "256ab78bc",
+    "amount": 13000000,
+    "description": "Product development",
+    "category": "Development",
+    "date": "2024-02-04",
+    "title": "Product development",
+    "payment": "non-cash"
+},
+{
+    "id": "267bc89cd",
+    "amount": 15000000,
+    "description": "Customer support",
+    "category": "Services",
+    "date": "2024-02-05",
+    "title": "Customer support",
+    "payment": "non-cash"
+},
+{
+    "id": "278cd90de",
+    "amount": 17000000,
+    "description": "Business travel",
+    "category": "Travel",
+    "date": "2024-02-06",
+    "title": "Business travel",
+    "payment": "cash"
+},
+{
+    "id": "289de01ef",
+    "amount": 19000000,
+    "description": "Office maintenance",
+    "category": "Maintenance",
+    "date": "2024-02-07",
+    "title": "Office maintenance",
+    "payment": "non-cash"
+},
+{
+    "id": "290ef12fg",
+    "amount": 21000000,
+    "description": "Employee recruitment",
+    "category": "Recruitment",
+    "date": "2024-02-08",
+    "title": "Employee recruitment",
+    "payment": "non-cash"
+},
+{
+    "id": "301fg23gh",
+    "amount": 23000000,
+    "description": "Training program",
+    "category": "Training",
+    "date": "2024-02-09",
+    "title": "Training program",
+    "payment": "cash"
+},
+{
+    "id": "312gh34hi",
+    "amount": 25000000,
+    "description": "Office supplies purchase",
+    "category": "Supplies",
+    "date": "2024-02-10",
+    "title": "Office supplies purchase",
+    "payment": "non-cash"
+},
+{
+    "id": "323hi45ij",
+    "amount": 27000000,
+    "description": "IT support",
+    "category": "Services",
+    "date": "2024-02-11",
+    "title": "IT support",
+    "payment": "non-cash"
+},
+{
+    "id": "334ij56jk",
+    "amount": 29000000,
+    "description": "Software upgrade",
+    "category": "Technology",
+    "date": "2024-02-12",
+    "title": "Software upgrade",
+    "payment": "non-cash"
+},
+{
+    "id": "345jk67kl",
+    "amount": 31000000,
+    "description": "Hardware purchase",
+    "category": "Equipment",
+    "date": "2024-02-13",
+    "title": "Hardware purchase",
+    "payment": "cash"
+},
+{
+    "id": "356kl78lm",
+    "amount": 33000000,
+    "description": "Office expansion",
+    "category": "Renovation",
+    "date": "2024-02-14",
+    "title": "Office expansion",
+    "payment": "non-cash"
+},
+{
+    "id": "367lm89mn",
+    "amount": 35000000,
+    "description": "New project launch",
+    "category": "Projects",
+    "date": "2024-02-15",
+    "title": "New project launch",
+    "payment": "non-cash"
+},
+{
+    "id": "378mn90no",
+    "amount": 37000000,
+    "description": "Annual conference",
+    "category": "Events",
+    "date": "2024-02-16",
+    "title": "Annual conference",
+    "payment": "cash"
+},
+{
+    "id": "389no01op",
+    "amount": 39000000,
+    "description": "Corporate retreat",
+    "category": "Events",
+    "date": "2024-02-17",
+    "title": "Corporate retreat",
+    "payment": "non-cash"
+},
+{
+    "id": "390op12qr",
+    "amount": 41000000,
+    "description": "New office setup",
+    "category": "Renovation",
+    "date": "2024-02-18",
+    "title": "New office setup",
+    "payment": "cash"
+},
+{
+    "id": "401qr23st",
+    "amount": 43000000,
+    "description": "Market expansion",
+    "category": "Marketing",
+    "date": "2024-02-19",
+    "title": "Market expansion",
+    "payment": "non-cash"
+},
+{
+    "id": "412st34uv",
+    "amount": 45000000,
+    "description": "New product line",
+    "category": "Development",
+    "date": "2024-02-20",
+    "title": "New product line",
+    "payment": "non-cash"
+},
+{
+    "id": "423uv45wx",
+    "amount": 47000000,
+    "description": "Customer feedback program",
+    "category": "Research",
+    "date": "2024-02-21",
+    "title": "Customer feedback program",
+    "payment": "non-cash"
+},
+{
+    "id": "434wx56yz",
+    "amount": 49000000,
+    "description": "Sales training",
+    "category": "Training",
+    "date": "2024-02-22",
+    "title": "Sales training",
+    "payment": "cash"
+},
+{
+    "id": "445yz67za",
+    "amount": 51000000,
+    "description": "Employee wellness program",
+    "category": "Health",
+    "date": "2024-02-23",
+    "title": "Employee wellness program",
+    "payment": "non-cash"
+},
+{
+    "id": "456za78ab",
+    "amount": 53000000,
+    "description": "New marketing strategy",
+    "category": "Marketing",
+    "date": "2024-02-24",
+    "title": "New marketing strategy",
+    "payment": "non-cash"
+},
+{
+    "id": "467ab89cd",
+    "amount": 55000000,
+    "description": "Corporate social responsibility",
+    "category": "CSR",
+    "date": "2024-02-25",
+    "title": "Corporate social responsibility",
+    "payment": "cash"
+},
+{
+    "id": "478cd90ef",
+    "amount": 57000000,
+    "description": "New software implementation",
+    "category": "Technology",
+    "date": "2024-02-26",
+    "title": "New software implementation",
+    "payment": "non-cash"
+},
+{
+    "id": "489ef01gh",
+    "amount": 59000000,
+    "description": "Annual report preparation",
+    "category": "Reports",
+    "date": "2024-02-27",
+    "title": "Annual report preparation",
+    "payment": "non-cash"
+},
+{
+    "id": "490gh12hi",
+    "amount": 61000000,
+    "description": "New client acquisition",
+    "category": "Sales",
+    "date": "2024-02-28",
+    "title": "New client acquisition",
+    "payment": "cash"
+},
+{
+    "id": "501hi23ij",
+    "amount": 63000000,
+    "description": "Business strategy meeting",
+    "category": "Meetings",
+    "date": "2024-02-29",
+    "title": "Business strategy meeting",
+    "payment": "non-cash"
+},
+{
+    "id": "512ij34jk",
+    "amount": 65000000,
+    "description": "New partnership development",
+    "category": "Partnerships",
+    "date": "2024-03-01",
+    "title": "New partnership development",
+    "payment": "non-cash"
+},
+{
+    "id": "523jk45kl",
+    "amount": 67000000,
+    "description": "Market analysis",
+    "category": "Research",
+    "date": "2024-03-02",
+    "title": "Market analysis",
+    "payment": "non-cash"
+},
+{
+    "id": "534kl56lm",
+    "amount": 69000000,
+    "description": "New technology adoption",
+    "category": "Technology",
+    "date": "2024-03-03",
+    "title": "New technology adoption",
+    "payment": "cash"
+},
+{
+    "id": "545lm67mn",
+    "amount": 71000000,
+    "description": "Corporate training program",
+    "category": "Training",
+    "date": "2024-03-04",
+    "title": "Corporate training program",
+    "payment": "non-cash"
+},
+{
+    "id": "556mn78no",
+    "amount": 73000000,
+    "description": "New office equipment",
+    "category": "Equipment",
+    "date": "2024-03-05",
+    "title": "New office equipment",
+    "payment": "non-cash"
+},
+{
+    "id": "567no89op",
+    "amount": 75000000,
+    "description": "Annual budget review",
+    "category": "Finance",
+    "date": "2024-03-06",
+    "title": "Annual budget review",
+    "payment": "cash"
+},
+{
+    "id": "578op90qr",
+    "amount": 77000000,
+    "description": "New product testing",
+    "category": "Development",
+    "date": "2024-03-07",
+    "title": "New product testing",
+    "payment": "non-cash"
+},
+{
+    "id": "589qr01st",
+    "amount": 79000000,
+    "description": "Corporate event planning",
+    "category": "Events",
+    "date": "2024-03-08",
+    "title": "Corporate event planning",
+    "payment": "non-cash"
+},
+{
+    "id": "590st12tu",
+    "amount": 81000000,
+    "description": "New service launch",
+    "category": "Services",
+    "date": "2024-03-09",
+    "title": "New service launch",
+    "payment": "cash"
+},
+{
+    "id": "601tu23uv",
+    "amount": 83000000,
+    "description": "Market positioning strategy",
+    "category": "Marketing",
+    "date": "2024-03-10",
+    "title": "Market positioning strategy",
+    "payment": "non-cash"
+},
+{
+    "id": "612uv34wx",
+    "amount": 85000000,
+    "description": "New client onboarding",
+    "category": "Sales",
+    "date": "2024-03-11",
+    "title": "New client onboarding",
+    "payment": "non-cash"
+},
+{
+    "id": "623wx45yz",
+    "amount": 87000000,
+    "description": "Annual sales report",
+    "category": "Reports",
+    "date": "2024-03-12",
+    "title": "Annual sales report",
+    "payment": "cash"
+},
+{
+    "id": "634yz56za",
+    "amount": 89000000,
+    "description": "New market entry",
+    "category": "Marketing",
+    "date": "2024-03-13",
+    "title": "New market entry",
+    "payment": "non-cash"
+},
+{
+    "id": "645za67ab",
+    "amount": 91000000,
+    "description": "Corporate governance training",
+    "category": "Training",
+    "date": "2024-03-14",
+    "title": "Corporate governance training",
+    "payment": "non-cash"
+},
+{
+    "id": "656ab78cd",
+    "amount": 93000000,
+    "description": "New business model development",
+    "category": "Development",
+    "date": "2024-03-15",
+    "title": "New business model development",
+    "payment": "cash"
+},
+{
+    "id": "667cd89ef",
+    "amount": 95000000,
+    "description": "Annual performance review",
+    "category": "HR",
+    "date": "2024-03-16",
+    "title": "Annual performance review",
+    "payment": "non-cash"
+},
+{
+    "id": "678ef90gh",
+    "amount": 97000000,
+    "description": "New software training",
+    "category": "Training",
+    "date": "2024-03-17",
+    "title": "New software training",
+    "payment": "non-cash"
+},
+{
+    "id": "689gh01ij",
+    "amount": 99000000,
+    "description": "Corporate social event",
+    "category": "Events",
+    "date": "2024-03-18",
+    "title": "Corporate social event",
+    "payment": "cash"
+},
+{
+    "id": "690ij12jk",
+    "amount": 101000000,
+    "description": "New product marketing",
+    "category": "Marketing",
+    "date": "2024-03-19",
+    "title": "New product marketing",
+    "payment": "non-cash"
+},
+{
+    "id": "701jk23kl",
+    "amount": 103000000,
+    "description": "Business continuity planning",
+    "category": "Planning",
+    "date": "2024-03-20",
+    "title": "Business continuity planning",
+    "payment": "non-cash"
+},
+{
+    "id": "712kl34mn",
+    "amount": 105000000,
+    "description": "New service development",
+    "category": "Development",
+    "date": "2024-03-21",
+    "title": "New service development",
+    "payment": "cash"
+},
+{
+    "id": "723mn45no",
+    "amount": 107000000,
+    "description": "Corporate strategy meeting",
+    "category": "Meetings",
+    "date": "2024-03-22",
+    "title": "Corporate strategy meeting",
+    "payment": "non-cash"
+},
+{
+    "id": "734no56op",
+    "amount": 109000000,
+    "description": "New market strategy",
+    "category": "Marketing",
+    "date": "2024-03-23",
+    "title": "New market strategy",
+    "payment": "non-cash"
+},
+{
+    "id": "745op67pq",
+    "amount": 111000000,
+    "description": "Annual marketing plan",
+    "category": "Marketing",
+    "date": "2024-03-24",
+    "title": "Annual marketing plan",
+    "payment": "cash"
+},
+{
+    "id": "756pq78qr",
+    "amount": 113000000,
+    "description": "New client strategy",
+    "category": "Sales",
+    "date": "2024-03-25",
+    "title": "New client strategy",
+    "payment": "non-cash"
+},
+{
+    "id": "767qr89st",
+    "amount": 115000000,
+    "description": "Corporate training session",
+    "category": "Training",
+    "date": "2024-03-26",
+    "title": "Corporate training session",
+    "payment": "non-cash"
+},
+{
+    "id": "778st90tu",
+    "amount": 117000000,
+    "description": "New product launch event",
+    "category": "Events",
+    "date": "2024-03-27",
+    "title": "New product launch event",
+    "payment": "cash"
+},
+{
+    "id": "789tu12uv",
+    "amount": 119000000,
+    "description": "Annual company retreat",
+    "category": "Events",
+    "date": "2024-03-28",
+    "title": "Annual company retreat",
+    "payment": "non-cash"
+},
+{
+    "id": "790uv23wx",
+    "amount": 121000000,
+    "description": "New office location",
+    "category": "Renovation",
+    "date": "2024-03-29",
+    "title": "New office location",
+    "payment": "cash"
+},
+{
+    "id": "801wx34yz",
+    "amount": 123000000,
+    "description": "Corporate sponsorship",
+    "category": "Marketing",
+    "date": "2024-03-30",
+    "title": "Corporate sponsorship",
+    "payment": "non-cash"
+},
+{
+    "id": "812yz45za",
+    "amount": 125000000,
+    "description": "New product design",
+    "category": "Development",
+    "date": "2024-03-31",
+    "title": "New product design",
+    "payment": "non-cash"
+},
+{
+    "id": "823za56ab",
+    "amount": 127000000,
+    "description": "Annual financial audit",
+    "category": "Finance",
+    "date": "2024-04-01",
+    "title": "Annual financial audit",
+    "payment": "cash"
+},
+{
+    "id": "834ab67cd",
+    "amount": 129000000,
+    "description": "New employee onboarding",
+    "category": "HR",
+    "date": "2024-04-02",
+    "title": "New employee onboarding",
+    "payment": "non-cash"
+},
+{
+    "id": "845cd78ef",
+    "amount": 131000000,
+    "description": "Corporate social event planning",
+    "category": "Events",
+    "date": "2024-04-03",
+    "title": "Corporate social event planning",
+    "payment": "non-cash"
+},
+{
+    "id": "856ef89gh",
+    "amount": 133000000,
+    "description": "New marketing campaign",
+    "category": "Marketing",
+    "date": "2024-04-04",
+    "title": "New marketing campaign",
+    "payment": "cash"
+},
+{
+    "id": "867gh90ij",
+    "amount": 135000000,
+    "description": "New service offering",
+    "category": "Services",
+    "date": "2024-04-05",
+    "title": "New service offering",
+    "payment": "non-cash"
+},
+{
+    "id": "878ij01jk",
+    "amount": 137000000,
+    "description": "Corporate training program planning",
+    "category": "Training",
+    "date": "2024-04-06",
+    "title": "Corporate training program planning",
+    "payment": "non-cash"
+},
+{
+    "id": "889jk12kl",
+    "amount": 139000000,
+    "description": "New product feature development",
+    "category": "Development",
+    "date": "2024-04-07",
+    "title": "New product feature development",
+    "payment": "cash"
+},
+{
+    "id": "890kl23mn",
+    "amount": 141000000,
+    "description": "Annual company review",
+    "category": "Reports",
+    "date": "2024-04-08",
+    "title": "Annual company review",
+    "payment": "non-cash"
+},
+{
+    "id": "901mn34op",
+    "amount": 143000000,
+    "description": "New client relationship management",
+    "category": "Sales",
+    "date": "2024-04-09",
+    "title": "New client relationship management",
+    "payment": "non-cash"
+},
+{
+    "id": "912op45qr",
+    "amount": 145000000,
+    "description": "Corporate strategy development",
+    "category": "Planning",
+    "date": "2024-04-10",
+    "title": "Corporate strategy development",
+    "payment": "cash"
+},
+{
+    "id": "923qr56st",
+    "amount": 147000000,
+    "description": "New market research",
+    "category": "Research",
+    "date": "2024-04-11",
+    "title": "New market research",
+    "payment": "non-cash"
+},
+{
+    "id": "934st67uv",
+    "amount": 149000000,
+    "description": "Corporate governance review",
+    "category": "Governance",
+    "date": "2024-04-12",
+    "title": "Corporate governance review",
+    "payment": "non-cash"
+},
+{
+    "id": "945uv78wx",
+    "amount": 151000000,
+    "description": "New employee training program",
+    "category": "HR",
+    "date": "2024-04-13",
+    "title": "New employee training program",
+    "payment": "cash"
+},
+{
+    "id": "956wx89yz",
+    "amount": 153000000,
+    "description": "Corporate social responsibility initiative",
+    "category": "CSR",
+    "date": "2024-04-14",
+    "title": "Corporate social responsibility initiative",
+    "payment": "non-cash"
+},
+{
+    "id": "967yz90za",
+    "amount": 155000000,
+    "description": "New product launch strategy",
+    "category": "Marketing",
+    "date": "2024-04-15",
+    "title": "New product launch strategy",
+    "payment": "non-cash"
+},
+{
+    "id": "978za01ab",
+    "amount": 157000000,
+    "description": "Annual marketing review",
+    "category": "Marketing",
+    "date": "2024-04-16",
+    "title": "Annual marketing review",
+    "payment": "cash"
+},
+{
+    "id": "989ab12cd",
+    "amount": 159000000,
+    "description": "New client engagement strategy",
+    "category": "Sales",
+    "date": "2024-04-17",
+    "title": "New client engagement strategy",
+    "payment": "non-cash"
+}
+]
